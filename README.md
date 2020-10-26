@@ -2,7 +2,7 @@
  Opdrachten die gemaakt heb voor het vak Hardware Interfacing.
  
  De opdrachten zijn als volgt: 
- - Opdracht 1: namaken van Nightrider lampen
+ - Opdracht 1: Namaken van Nightrider lampen
  - Opdracht 2: Knop aan laten gaan door middel van knop
  - Opdracht 3: Lampen aan en uit laten gaan met potentiometer
  - Opdracht 4: Temperatuur meten
